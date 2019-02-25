@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MiguelMelo/robtube/issues"
   },
-  "homepage": "https://github.com/MiguelMelo/robtube#readme"
+  "homepage": "https://github.com/MiguelMelo/robtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
