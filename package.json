@@ -1,0 +1,22 @@
+{
+  "name": "robtube",
+  "version": "1.0.0",
+  "description": "Open-source project to create automatic videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelMelo/robtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelMelo/robtube/issues"
+  },
+  "homepage": "https://github.com/MiguelMelo/robtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
